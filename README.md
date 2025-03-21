@@ -18,6 +18,12 @@ This project integrates various schematics (counters, D Flip-flop, adder, compar
 
 ![PWM Generator](PWM_layout.jpg)
 
+
+## Schematic circuit
+![PWM Schematic](PWM_schematic.png)
+
+
+
 The PWM generator consists of the following major components:
 
 - **Input Signals**:  
